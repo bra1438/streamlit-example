@@ -1,1 +1,1 @@
-print ("hello")
+write('Hello, *World!* :sunglasses:')
